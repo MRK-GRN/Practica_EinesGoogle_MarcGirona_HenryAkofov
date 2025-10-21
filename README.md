@@ -2,4 +2,4 @@
 
 presentacion: [pdf](https://github.com/MRK-GRN/Practica_EinesGoogle_MarcGirona_HenryAkofov/blob/main/DNS.pdf)
 
-encuaesta: [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfDlMuO4ynGzv7ZePqTxo4DXMnxpGFPFUnlqT6rWb3FUkMaEA/viewform?usp=sharing&ouid=103301834319360142473)
+encuessta: [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfDlMuO4ynGzv7ZePqTxo4DXMnxpGFPFUnlqT6rWb3FUkMaEA/viewform?usp=sharing&ouid=103301834319360142473)
